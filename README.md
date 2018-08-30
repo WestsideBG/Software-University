@@ -7,7 +7,7 @@
 <h1><a href="https://softuni.bg/">SoftUni</a></h1>
 <h2>C#</h2>
 </td>
-<td align="center" width="20%"><img src="https://lh3.googleusercontent.com/KAOXsVVRoZvMtpoleUpNUdRqY4f6gdpVQ0RcxI_nc26GR4o9KWJ1KIBWxydPeC0ytA55ALXgqrErL_ZoCu77bkq1lPeb5kN9FDQlP_2bgqP2d6Bu9NBAQTDvyhAHR5z3v3S2f7LXpzv4lSHTcGugNrBAEDlyqFt-_AwVUlN8S2cWypdQCRVWErWYcZCriDNpK_EKF8G_znFih2_qDzDlbPAFF1mneA2L4kA8jPg1t_q2hrZV-ns0CWIpehQwmAIxhknJG_JmY7XLfhI8fhwLnccSA1oHX4_f6W2tc1YCA2cdD9HVXPllhllKcGHYBZ5BwJ6gmK5RXMrjfV4CdKCSEIqMGVOts6xbWKvaoGEduPi6wH-gB2fcss7949xCrlav4xYQCpdVRbAnRCN3O_Dt-D7iM6bWJz2eMga0_NekriQanGpSABdWnrRGoeqZK6OV2FHHwxU8XHLdQSSJL-WrK4uaVXtkgHjQ569P4JYoEMaR7XhiXvi_5orHT2IHM7P0brhdunXu9fnn4GIbd8yEPIqee768cK2m6iLl03TsgFgzEe1EaEOpKykehIBam-fBL8DEZFLpuxe7gyVPoJsL5xunvJb7AXB9tsAlyF8=w188-h241-no" alt="" style="width: 250px; height: 250px" />
+<td align="center" width="20%"><img src="https://media.licdn.com/dms/image/C4D03AQGrzXVJH54hxQ/profile-displayphoto-shrink_200_200/0?e=1541030400&v=beta&t=TEomwcJITJSQwe6NM98nfVRAdz04vCW29RvVkru7tCM" alt="" style="width: 250px; height: 250px" />
 Name:
 <strong>
 Samir Azzam (WestsideBG)
