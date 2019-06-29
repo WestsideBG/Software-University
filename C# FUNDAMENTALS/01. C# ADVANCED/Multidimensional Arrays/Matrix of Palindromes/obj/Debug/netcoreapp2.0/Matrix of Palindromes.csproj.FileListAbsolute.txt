@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.pdb

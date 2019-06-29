@@ -1,0 +1,9 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

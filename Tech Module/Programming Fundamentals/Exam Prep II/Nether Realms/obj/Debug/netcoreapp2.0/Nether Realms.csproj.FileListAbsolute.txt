@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\bin\Debug\netcoreapp2.0\Nether Realms.deps.json
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\bin\Debug\netcoreapp2.0\Nether Realms.runtimeconfig.json
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\bin\Debug\netcoreapp2.0\Nether Realms.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\bin\Debug\netcoreapp2.0\Nether Realms.dll
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\bin\Debug\netcoreapp2.0\Nether Realms.pdb
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.dll
+c:\users\westsidebg\source\repos\Exam Prep II\Nether Realms\obj\Debug\netcoreapp2.0\Nether Realms.pdb

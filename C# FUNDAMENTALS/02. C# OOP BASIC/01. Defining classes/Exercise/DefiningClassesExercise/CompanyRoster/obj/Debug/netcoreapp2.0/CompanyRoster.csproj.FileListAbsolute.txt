@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.pdb

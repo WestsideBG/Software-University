@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\bin\Debug\netcoreapp2.0\Custom Min Function.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\bin\Debug\netcoreapp2.0\Custom Min Function.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\bin\Debug\netcoreapp2.0\Custom Min Function.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\bin\Debug\netcoreapp2.0\Custom Min Function.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\bin\Debug\netcoreapp2.0\Custom Min Function.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\obj\Debug\netcoreapp2.0\Custom Min Function.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\obj\Debug\netcoreapp2.0\Custom Min Function.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\obj\Debug\netcoreapp2.0\Custom Min Function.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\obj\Debug\netcoreapp2.0\Custom Min Function.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Custom Min Function\obj\Debug\netcoreapp2.0\Custom Min Function.pdb

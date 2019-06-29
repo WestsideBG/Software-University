@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.pdb

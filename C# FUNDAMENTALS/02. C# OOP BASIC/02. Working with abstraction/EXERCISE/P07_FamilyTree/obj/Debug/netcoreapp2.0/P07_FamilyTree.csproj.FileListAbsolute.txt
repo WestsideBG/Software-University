@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

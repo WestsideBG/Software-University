@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

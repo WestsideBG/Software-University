@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\BorderControl.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\bin\Debug\netcoreapp2.1\BorderControl.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csproj.CopyComplete
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.pdb

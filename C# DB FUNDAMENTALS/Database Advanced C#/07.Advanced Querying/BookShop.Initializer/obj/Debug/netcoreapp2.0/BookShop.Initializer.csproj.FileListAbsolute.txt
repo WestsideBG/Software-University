@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb

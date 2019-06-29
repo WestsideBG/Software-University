@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\bin\Debug\netcoreapp2.1\01. CreateDatabase.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\bin\Debug\netcoreapp2.1\01. CreateDatabase.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\bin\Debug\netcoreapp2.1\01. CreateDatabase.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\bin\Debug\netcoreapp2.1\01. CreateDatabase.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\bin\Debug\netcoreapp2.1\01. CreateDatabase.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\01. CreateDatabase\obj\Debug\netcoreapp2.1\01. CreateDatabase.pdb

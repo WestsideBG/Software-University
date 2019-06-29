@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.pdb

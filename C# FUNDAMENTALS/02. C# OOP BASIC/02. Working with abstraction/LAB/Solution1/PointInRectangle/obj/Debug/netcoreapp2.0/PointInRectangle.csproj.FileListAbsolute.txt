@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.pdb

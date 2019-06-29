@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb

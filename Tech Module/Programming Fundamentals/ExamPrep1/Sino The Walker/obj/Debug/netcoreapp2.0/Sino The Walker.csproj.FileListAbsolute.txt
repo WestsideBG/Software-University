@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\bin\Debug\netcoreapp2.0\Sino The Walker.deps.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\bin\Debug\netcoreapp2.0\Sino The Walker.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\bin\Debug\netcoreapp2.0\Sino The Walker.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\bin\Debug\netcoreapp2.0\Sino The Walker.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\bin\Debug\netcoreapp2.0\Sino The Walker.pdb
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Sino The Walker\obj\Debug\netcoreapp2.0\Sino The Walker.pdb

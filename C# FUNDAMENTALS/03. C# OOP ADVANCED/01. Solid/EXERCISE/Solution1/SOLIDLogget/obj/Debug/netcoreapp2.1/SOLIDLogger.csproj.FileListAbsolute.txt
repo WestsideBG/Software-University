@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\bin\Debug\netcoreapp2.1\SOLIDLogger.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\bin\Debug\netcoreapp2.1\SOLIDLogger.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\bin\Debug\netcoreapp2.1\SOLIDLogger.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\bin\Debug\netcoreapp2.1\SOLIDLogger.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\bin\Debug\netcoreapp2.1\SOLIDLogger.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\EXERCISE\Solution1\SOLIDLogget\obj\Debug\netcoreapp2.1\SOLIDLogger.pdb

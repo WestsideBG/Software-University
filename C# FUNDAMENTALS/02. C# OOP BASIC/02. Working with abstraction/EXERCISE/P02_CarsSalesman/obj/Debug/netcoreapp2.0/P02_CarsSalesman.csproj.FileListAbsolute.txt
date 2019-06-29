@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "02.CodingTracker/1.0.0": {
+        "runtime": {
+          "02.CodingTracker.dll": {}
+        }
+      },
+      "01. Stealer/1.0.0": {
+        "runtime": {
+          "01. Stealer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.CodingTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01. Stealer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

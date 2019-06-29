@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\bin\Debug\netcoreapp2.0\TODO.deps.json
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\bin\Debug\netcoreapp2.0\TODO.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\bin\Debug\netcoreapp2.0\TODO.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\bin\Debug\netcoreapp2.0\TODO.dll
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\bin\Debug\netcoreapp2.0\TODO.pdb
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.dll
+C:\Users\WestsideBG\Desktop\softtech\C#\TODO\TODO\obj\Debug\netcoreapp2.0\TODO.pdb

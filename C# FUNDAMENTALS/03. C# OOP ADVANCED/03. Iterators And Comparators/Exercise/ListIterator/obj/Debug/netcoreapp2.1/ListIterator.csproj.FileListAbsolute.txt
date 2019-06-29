@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\bin\Debug\netcoreapp2.1\ListIterator.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\bin\Debug\netcoreapp2.1\ListIterator.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\bin\Debug\netcoreapp2.1\ListIterator.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\bin\Debug\netcoreapp2.1\ListIterator.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\bin\Debug\netcoreapp2.1\ListIterator.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\03. Iterators And Comparators\Exercise\ListIterator\obj\Debug\netcoreapp2.1\ListIterator.pdb

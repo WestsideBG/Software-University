@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\bin\Release\netcoreapp2.1\GenericArrayCreator.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\bin\Release\netcoreapp2.1\GenericArrayCreator.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\bin\Release\netcoreapp2.1\GenericArrayCreator.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\bin\Release\netcoreapp2.1\GenericArrayCreator.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\bin\Release\netcoreapp2.1\GenericArrayCreator.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\GenericArrayCreator\obj\Release\netcoreapp2.1\GenericArrayCreator.pdb

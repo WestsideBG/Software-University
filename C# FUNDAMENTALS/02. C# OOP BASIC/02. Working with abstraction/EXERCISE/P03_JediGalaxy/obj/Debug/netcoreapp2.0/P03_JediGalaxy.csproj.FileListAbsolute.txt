@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

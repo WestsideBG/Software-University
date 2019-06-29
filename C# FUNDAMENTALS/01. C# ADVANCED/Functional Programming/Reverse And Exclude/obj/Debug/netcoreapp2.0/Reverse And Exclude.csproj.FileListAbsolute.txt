@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.csprojAssemblyReference.cache

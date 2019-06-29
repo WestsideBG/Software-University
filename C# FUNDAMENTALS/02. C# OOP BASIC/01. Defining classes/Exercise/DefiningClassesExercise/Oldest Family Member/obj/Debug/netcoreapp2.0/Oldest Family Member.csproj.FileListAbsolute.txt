@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.pdb

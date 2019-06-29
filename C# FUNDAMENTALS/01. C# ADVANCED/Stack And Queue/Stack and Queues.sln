@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{4E71DF0B-233D-4FB8-97CD-1FDD5757E71C}"
+	ProjectSection(SolutionItems) = preProject
+		DecimalToBinary\Decimal To Binary.cs = DecimalToBinary\Decimal To Binary.cs
+		Hot Potato.cs = Hot Potato.cs
+		MatchingBrackets\Matching Brackets.cs = MatchingBrackets\Matching Brackets.cs
+		Math Potato\Math Potato.cs = Math Potato\Math Potato.cs
+		Reverse String\Reverse Strings.cs = Reverse String\Reverse Strings.cs
+		Simple Calculator\Simple Calculator.cs = Simple Calculator\Simple Calculator.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{BEAB5BE0-4CA0-415C-89F0-703735BA5D82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic Queue Operations", "Basic Queue Operations\Basic Queue Operations.csproj", "{80A2A177-4AED-4572-A158-902D27C45869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate Sequence with Queue", "Calculate Sequence with Queue\Calculate Sequence with Queue.csproj", "{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traffic Light", "Traffic Light\Traffic Light.csproj", "{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Tour", "Truck Tour\Truck Tour.csproj", "{1516BE49-4ADF-4081-9D42-2EF077989635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Editor", "Text Editor\Text Editor.csproj", "{E93CD926-0E30-4B58-A884-D5E421A910E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A2A177-4AED-4572-A158-902D27C45869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A2A177-4AED-4572-A158-902D27C45869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A2A177-4AED-4572-A158-902D27C45869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A2A177-4AED-4572-A158-902D27C45869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1516BE49-4ADF-4081-9D42-2EF077989635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1516BE49-4ADF-4081-9D42-2EF077989635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1516BE49-4ADF-4081-9D42-2EF077989635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1516BE49-4ADF-4081-9D42-2EF077989635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93CD926-0E30-4B58-A884-D5E421A910E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93CD926-0E30-4B58-A884-D5E421A910E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93CD926-0E30-4B58-A884-D5E421A910E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93CD926-0E30-4B58-A884-D5E421A910E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{80A2A177-4AED-4572-A158-902D27C45869} = {BEAB5BE0-4CA0-415C-89F0-703735BA5D82}
+		{FAA16909-4EB4-4828-ACF6-AD817AAEBBB2} = {BEAB5BE0-4CA0-415C-89F0-703735BA5D82}
+		{0D89E1B1-CD03-4F21-B166-373FAF4E8D3B} = {4E71DF0B-233D-4FB8-97CD-1FDD5757E71C}
+		{1516BE49-4ADF-4081-9D42-2EF077989635} = {BEAB5BE0-4CA0-415C-89F0-703735BA5D82}
+		{E93CD926-0E30-4B58-A884-D5E421A910E4} = {BEAB5BE0-4CA0-415C-89F0-703735BA5D82}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB82EB80-EAD3-4C46-8E7F-6BC46EE4DBBE}
+	EndGlobalSection
+EndGlobal

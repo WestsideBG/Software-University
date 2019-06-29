@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchEmails", "Regex\MatchEmails.csproj", "{4979D7D0-8244-4B56-90F2-B19C3E3E1145}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractSentences", "ExtractSentences\ExtractSentences.csproj", "{1C02F5F1-EDB2-4ECE-BF92-017E71FE0B77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather", "Weather\Weather.csproj", "{F9CBADAA-767B-4AB8-A28E-6FDA298FD08F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraView", "CameraView\CameraView.csproj", "{F47E469E-729A-48ED-A6C5-3A29595A6CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryMess", "KeyReplacer\QueryMess.csproj", "{2CCCA137-02C4-4ADC-9D7B-EF92CC52C708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReplacer", "KeyReplacer\KeyReplacer.csproj", "{17EB8F39-0F8D-4094-9ECD-1C8074D40C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4979D7D0-8244-4B56-90F2-B19C3E3E1145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4979D7D0-8244-4B56-90F2-B19C3E3E1145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4979D7D0-8244-4B56-90F2-B19C3E3E1145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4979D7D0-8244-4B56-90F2-B19C3E3E1145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C02F5F1-EDB2-4ECE-BF92-017E71FE0B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C02F5F1-EDB2-4ECE-BF92-017E71FE0B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C02F5F1-EDB2-4ECE-BF92-017E71FE0B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C02F5F1-EDB2-4ECE-BF92-017E71FE0B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CBADAA-767B-4AB8-A28E-6FDA298FD08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CBADAA-767B-4AB8-A28E-6FDA298FD08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CBADAA-767B-4AB8-A28E-6FDA298FD08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CBADAA-767B-4AB8-A28E-6FDA298FD08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47E469E-729A-48ED-A6C5-3A29595A6CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47E469E-729A-48ED-A6C5-3A29595A6CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47E469E-729A-48ED-A6C5-3A29595A6CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47E469E-729A-48ED-A6C5-3A29595A6CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCCA137-02C4-4ADC-9D7B-EF92CC52C708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCCA137-02C4-4ADC-9D7B-EF92CC52C708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCCA137-02C4-4ADC-9D7B-EF92CC52C708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCCA137-02C4-4ADC-9D7B-EF92CC52C708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB8F39-0F8D-4094-9ECD-1C8074D40C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB8F39-0F8D-4094-9ECD-1C8074D40C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB8F39-0F8D-4094-9ECD-1C8074D40C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB8F39-0F8D-4094-9ECD-1C8074D40C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85FEA4D-5DBD-488A-A9CD-76F123F6C9CD}
+	EndGlobalSection
+EndGlobal

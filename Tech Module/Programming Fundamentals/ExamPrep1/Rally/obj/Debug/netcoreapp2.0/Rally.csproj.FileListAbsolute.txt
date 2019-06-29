@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\bin\Debug\netcoreapp2.0\Rally.deps.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\bin\Debug\netcoreapp2.0\Rally.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\bin\Debug\netcoreapp2.0\Rally.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\bin\Debug\netcoreapp2.0\Rally.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\bin\Debug\netcoreapp2.0\Rally.pdb
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.csprojResolveAssemblyReference.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Rally\obj\Debug\netcoreapp2.0\Rally.pdb

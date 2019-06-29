@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache

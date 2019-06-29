@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\bin\Debug\netcoreapp2.1\CustomTuple.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\bin\Debug\netcoreapp2.1\CustomTuple.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\bin\Debug\netcoreapp2.1\CustomTuple.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\bin\Debug\netcoreapp2.1\CustomTuple.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\bin\Debug\netcoreapp2.1\CustomTuple.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\Tumple\obj\Debug\netcoreapp2.1\CustomTuple.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\ExamPrep I\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

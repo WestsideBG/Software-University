@@ -1,0 +1,12 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\07.Advanced Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb

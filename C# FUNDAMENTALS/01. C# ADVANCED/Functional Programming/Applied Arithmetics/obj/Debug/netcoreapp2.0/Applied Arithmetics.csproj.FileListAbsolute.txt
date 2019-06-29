@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp2.0\Applied Arithmetics.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp2.0\Applied Arithmetics.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp2.0\Applied Arithmetics.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp2.0\Applied Arithmetics.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp2.0\Applied Arithmetics.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp2.0\Applied Arithmetics.csprojAssemblyReference.cache

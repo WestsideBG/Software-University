@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.pdb

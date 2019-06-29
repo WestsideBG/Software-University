@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.deps.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.pdb
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.csprojResolveAssemblyReference.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.pdb

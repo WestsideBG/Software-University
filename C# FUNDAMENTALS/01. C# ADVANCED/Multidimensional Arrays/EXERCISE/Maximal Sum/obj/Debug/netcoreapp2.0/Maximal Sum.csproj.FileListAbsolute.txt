@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.deps.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.pdb
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\bin\Debug\netcoreapp2.0\Sets Of Elements.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\bin\Debug\netcoreapp2.0\Sets Of Elements.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\bin\Debug\netcoreapp2.0\Sets Of Elements.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\bin\Debug\netcoreapp2.0\Sets Of Elements.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\bin\Debug\netcoreapp2.0\Sets Of Elements.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Sets Of Elements\obj\Debug\netcoreapp2.0\Sets Of Elements.pdb

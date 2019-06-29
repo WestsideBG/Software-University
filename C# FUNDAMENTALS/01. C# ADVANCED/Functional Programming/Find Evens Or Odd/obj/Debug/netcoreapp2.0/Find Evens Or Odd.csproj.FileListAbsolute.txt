@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\bin\Debug\netcoreapp2.0\Find Evens Or Odd.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\bin\Debug\netcoreapp2.0\Find Evens Or Odd.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\bin\Debug\netcoreapp2.0\Find Evens Or Odd.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\bin\Debug\netcoreapp2.0\Find Evens Or Odd.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\bin\Debug\netcoreapp2.0\Find Evens Or Odd.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Find Evens Or Odd\obj\Debug\netcoreapp2.0\Find Evens Or Odd.pdb

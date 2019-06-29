@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

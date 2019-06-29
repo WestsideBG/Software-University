@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\bin\Debug\netcoreapp2.0\Snowman.deps.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\bin\Debug\netcoreapp2.0\Snowman.runtimeconfig.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\bin\Debug\netcoreapp2.0\Snowman.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\bin\Debug\netcoreapp2.0\Snowman.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\bin\Debug\netcoreapp2.0\Snowman.pdb
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.pdb
+c:\users\westsidebg\source\repos\Snow Exam\Snowman\obj\Debug\netcoreapp2.0\Snowman.csprojResolveAssemblyReference.cache

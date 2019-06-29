@@ -1,0 +1,10 @@
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.deps.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.dll
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.pdb
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.dll
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.pdb

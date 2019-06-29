@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.deps.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.runtimeconfig.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.pdb
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.pdb

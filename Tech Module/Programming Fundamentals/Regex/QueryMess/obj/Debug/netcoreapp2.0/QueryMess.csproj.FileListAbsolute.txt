@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\bin\Debug\netcoreapp2.0\QueryMess.deps.json
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\bin\Debug\netcoreapp2.0\QueryMess.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\bin\Debug\netcoreapp2.0\QueryMess.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\bin\Debug\netcoreapp2.0\QueryMess.dll
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\bin\Debug\netcoreapp2.0\QueryMess.pdb
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.dll
+C:\Users\WestsideBG\source\repos\RegEx\KeyReplacer\obj\Debug\netcoreapp2.0\QueryMess.pdb

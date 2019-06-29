@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\BankAccount.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\BankAccount.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\BankAccount.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\BankAccount.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\BankAccount.pdb

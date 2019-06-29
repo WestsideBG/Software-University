@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\bin\Debug\netcoreapp2.1\01.GenericBox.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\bin\Debug\netcoreapp2.1\01.GenericBox.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\bin\Debug\netcoreapp2.1\01.GenericBox.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\bin\Debug\netcoreapp2.1\01.GenericBox.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\bin\Debug\netcoreapp2.1\01.GenericBox.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\Generics-Excercise\01.GenericBox\obj\Debug\netcoreapp2.1\01.GenericBox.pdb

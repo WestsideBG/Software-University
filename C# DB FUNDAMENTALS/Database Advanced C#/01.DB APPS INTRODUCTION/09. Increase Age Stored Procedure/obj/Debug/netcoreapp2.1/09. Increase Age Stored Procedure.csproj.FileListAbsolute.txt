@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\09. Increase Age Stored Procedure\obj\Debug\netcoreapp2.1\09. Increase Age Stored Procedure.pdb

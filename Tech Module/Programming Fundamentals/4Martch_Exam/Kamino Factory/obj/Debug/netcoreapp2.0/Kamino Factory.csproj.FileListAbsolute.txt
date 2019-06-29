@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.deps.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.dll
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.pdb
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.dll
+c:\users\westsidebg\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.pdb
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csprojResolveAssemblyReference.cache

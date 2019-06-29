@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\bin\Debug\netcoreapp2.0\Vloggers.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\bin\Debug\netcoreapp2.0\Vloggers.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\bin\Debug\netcoreapp2.0\Vloggers.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\bin\Debug\netcoreapp2.0\Vloggers.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\bin\Debug\netcoreapp2.0\Vloggers.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Vloggers\obj\Debug\netcoreapp2.0\Vloggers.pdb

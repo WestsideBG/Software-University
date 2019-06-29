@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.deps.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.pdb
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.dll
+c:\users\westsidebg\source\repos\Snow Exam\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.pdb

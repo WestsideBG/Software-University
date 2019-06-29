@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\bin\Debug\netcoreapp2.0\NumsFromOneToFifty.deps.json
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\bin\Debug\netcoreapp2.0\NumsFromOneToFifty.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\bin\Debug\netcoreapp2.0\NumsFromOneToFifty.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\bin\Debug\netcoreapp2.0\NumsFromOneToFifty.dll
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\bin\Debug\netcoreapp2.0\NumsFromOneToFifty.pdb
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.csprojAssemblyReference.cache
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.dll
+C:\Users\WestsideBG\source\repos\NumsFromOneToFifty\NumsFromOneToFifty\obj\Debug\netcoreapp2.0\NumsFromOneToFifty.pdb

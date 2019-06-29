@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\02.CodingTracker.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\02.CodingTracker.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\02.CodingTracker.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\02.CodingTracker.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\02.CodingTracker.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\01. Stealer.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\bin\Debug\netcoreapp2.1\01. Stealer.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.csproj.CopyComplete
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\LAB\CodingTracker\obj\Debug\netcoreapp2.1\02.CodingTracker.pdb

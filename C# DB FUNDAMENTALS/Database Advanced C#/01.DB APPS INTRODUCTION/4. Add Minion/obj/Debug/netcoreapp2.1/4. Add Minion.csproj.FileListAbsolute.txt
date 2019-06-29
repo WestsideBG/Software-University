@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\4. Add Minion.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\4. Add Minion.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\4. Add Minion.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\4. Add Minion.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\4. Add Minion.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\4. Add Minion\obj\Debug\netcoreapp2.1\4. Add Minion.pdb

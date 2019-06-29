@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.0\Bank Account Methods.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.0\Bank Account Methods.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.0\Bank Account Methods.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.0\Bank Account Methods.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.0\Bank Account Methods.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\LAB\Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.0\Bank Account Methods.pdb

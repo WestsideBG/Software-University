@@ -1,0 +1,12 @@
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+C:\Users\WestsideBG\Desktop\softtech\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb

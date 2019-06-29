@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\bin\Debug\netcoreapp2.1\Database.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\bin\Debug\netcoreapp2.1\Database.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\Database\obj\Debug\netcoreapp2.1\Database.pdb

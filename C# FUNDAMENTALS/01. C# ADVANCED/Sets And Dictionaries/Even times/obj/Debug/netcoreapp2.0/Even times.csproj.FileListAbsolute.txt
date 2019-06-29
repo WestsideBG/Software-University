@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\bin\Debug\netcoreapp2.0\Even times.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\bin\Debug\netcoreapp2.0\Even times.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\bin\Debug\netcoreapp2.0\Even times.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\bin\Debug\netcoreapp2.0\Even times.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\bin\Debug\netcoreapp2.0\Even times.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\obj\Debug\netcoreapp2.0\Even times.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\obj\Debug\netcoreapp2.0\Even times.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\obj\Debug\netcoreapp2.0\Even times.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\obj\Debug\netcoreapp2.0\Even times.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Even times\obj\Debug\netcoreapp2.0\Even times.pdb

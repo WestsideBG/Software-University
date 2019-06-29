@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.pdb

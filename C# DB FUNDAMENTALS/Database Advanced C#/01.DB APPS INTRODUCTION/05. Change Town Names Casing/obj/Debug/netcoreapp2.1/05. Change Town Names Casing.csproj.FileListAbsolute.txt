@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\05. Change Town Names Casing.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\05. Change Town Names Casing.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\05. Change Town Names Casing.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\05. Change Town Names Casing.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\05. Change Town Names Casing.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\05. Change Town Names Casing\obj\Debug\netcoreapp2.1\05. Change Town Names Casing.pdb

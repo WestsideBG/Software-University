@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block main %}
+    <div class="container body-content">
+        <div class="row">
+            {% for article in articles %}
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <span class="label label-default">New</span>
+                                    <article>
+                                        <header>
+                                            <h2>{{ article.title }}</h2>
+                                        </header>
+
+                                        <p>
+                                            {{ article.summary }}
+                                        </p>
+
+                                        <small class="author">
+                                            {{ article.author.fullName }}
+                                            <div class="pull-right">
+                                                <a class="btn btn-default btn-xs"
+                                                   href="{{ path('article_view',{'id': article.id}) }}">Read more &raquo;</a>
+                                            </div>
+                                        </small>
+
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock %}
+

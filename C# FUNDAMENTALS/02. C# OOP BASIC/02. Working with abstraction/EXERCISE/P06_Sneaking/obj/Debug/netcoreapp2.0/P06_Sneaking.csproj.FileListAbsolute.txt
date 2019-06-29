@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\EXERCISE\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb

@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.deps.json
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.runtimeconfig.json
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.dll
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.pdb
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.dll
+c:\users\westsidebg\source\repos\Exam Prep II\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.pdb

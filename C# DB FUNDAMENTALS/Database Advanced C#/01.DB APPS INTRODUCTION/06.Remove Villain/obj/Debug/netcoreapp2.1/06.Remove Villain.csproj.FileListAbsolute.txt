@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\06.Remove Villain.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\06.Remove Villain.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\06.Remove Villain.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\06.Remove Villain.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\06.Remove Villain.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\06.Remove Villain\obj\Debug\netcoreapp2.1\06.Remove Villain.pdb

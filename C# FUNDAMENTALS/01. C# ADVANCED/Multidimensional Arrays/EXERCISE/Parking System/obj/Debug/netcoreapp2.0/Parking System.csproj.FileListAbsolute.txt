@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\bin\Debug\netcoreapp2.0\Parking System.deps.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\bin\Debug\netcoreapp2.0\Parking System.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\bin\Debug\netcoreapp2.0\Parking System.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\bin\Debug\netcoreapp2.0\Parking System.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\bin\Debug\netcoreapp2.0\Parking System.pdb
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Parking System\obj\Debug\netcoreapp2.0\Parking System.pdb

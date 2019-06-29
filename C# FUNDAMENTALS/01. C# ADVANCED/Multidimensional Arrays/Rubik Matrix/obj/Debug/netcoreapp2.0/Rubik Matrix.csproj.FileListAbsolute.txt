@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\bin\Debug\netcoreapp2.0\Rubik Matrix.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\bin\Debug\netcoreapp2.0\Rubik Matrix.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\bin\Debug\netcoreapp2.0\Rubik Matrix.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\bin\Debug\netcoreapp2.0\Rubik Matrix.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\bin\Debug\netcoreapp2.0\Rubik Matrix.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Rubik Matrix\obj\Debug\netcoreapp2.0\Rubik Matrix.csprojAssemblyReference.cache

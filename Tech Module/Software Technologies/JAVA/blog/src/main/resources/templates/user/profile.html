@@ -1,0 +1,64 @@
+<main>
+    <div class="container body-content">
+        <div class="row">
+            <center><h3>Information</h3></center>
+            <hr/>
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                        <div class="thumbnail">
+                            <div class="caption">
+                                <div>Email:</div>
+                                <span th:text="${user.email}"></span>
+                                <hr/>
+                                <div>Full Name:</div>
+                                <span th:text="${user.fullName}"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        <div class="row">
+            <center><h3>Articles</h3></center>
+            <hr/>
+            <th:block th:each="article : ${articles}">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <span class="label label-default">New</span>
+                                <article>
+                                    <header>
+                                        <h2 th:text="${article.title}"></h2>
+                                        <div class="pull-right">
+                                            <th:block sec:authorize="isAuthenticated()" th:if="${user.isAdmin() OR user.isAuthor(article)}">
+                                                <a class="btn btn-success btn-xs" th:href="@{/article/edit/{id}(id = ${article.id})}">Edit</a>
+                                                <a class="btn btn-danger btn-xs" th:href="@{/article/delete/{id}(id = ${article.id})}">Delete</a>
+                                            </th:block>
+                                            <a class="btn btn-default btn-xs"
+                                               th:href="@{/article/{id}(id=${article.id})}">Read more &raquo;</a>
+                                        </div>
+                                    </header>
+
+                                    <p th:text="${article.content}"></p>
+
+                                    <footer>
+
+                                    </footer>
+                                </article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </th:block>
+        </div>
+    </div>
+
+
+</main>

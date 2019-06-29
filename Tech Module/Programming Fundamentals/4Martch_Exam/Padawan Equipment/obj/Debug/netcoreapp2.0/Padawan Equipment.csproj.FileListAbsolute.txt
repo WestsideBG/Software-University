@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.deps.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.runtimeconfig.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.dll
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.pdb
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.dll
+c:\users\westsidebg\source\repos\4Martch_Exam\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.pdb

@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.deps.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.pdb
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.dll
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.pdb
+C:\Users\WestsideBG\source\repos\ExamPrep1\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.csprojResolveAssemblyReference.cache

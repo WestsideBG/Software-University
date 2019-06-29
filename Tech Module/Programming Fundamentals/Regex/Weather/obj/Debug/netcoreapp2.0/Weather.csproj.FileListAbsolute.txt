@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+C:\Users\WestsideBG\source\repos\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+C:\Users\WestsideBG\source\repos\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.pdb
+C:\Users\WestsideBG\source\repos\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.csprojResolveAssemblyReference.cache

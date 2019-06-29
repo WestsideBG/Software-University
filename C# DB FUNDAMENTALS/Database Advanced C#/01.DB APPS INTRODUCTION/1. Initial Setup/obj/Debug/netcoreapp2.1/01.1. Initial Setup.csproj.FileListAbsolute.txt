@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\bin\Debug\netcoreapp2.1\01.1. Initial Setup.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\bin\Debug\netcoreapp2.1\01.1. Initial Setup.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\bin\Debug\netcoreapp2.1\01.1. Initial Setup.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\1. Initial Setup\obj\Debug\netcoreapp2.1\01.1. Initial Setup.pdb

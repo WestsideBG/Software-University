@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\WORKING WITH ABSTRACTION\LAB\Solution1\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.pdb

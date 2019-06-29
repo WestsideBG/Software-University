@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\Exam Preparation II\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

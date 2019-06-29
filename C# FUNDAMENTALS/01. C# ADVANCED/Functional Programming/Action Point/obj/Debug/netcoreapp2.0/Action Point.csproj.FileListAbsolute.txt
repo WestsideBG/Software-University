@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\bin\Debug\netcoreapp2.0\Action Point.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\bin\Debug\netcoreapp2.0\Action Point.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\bin\Debug\netcoreapp2.0\Action Point.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\bin\Debug\netcoreapp2.0\Action Point.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\bin\Debug\netcoreapp2.0\Action Point.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Functional Programming\Action Point\obj\Debug\netcoreapp2.0\Action Point.pdb

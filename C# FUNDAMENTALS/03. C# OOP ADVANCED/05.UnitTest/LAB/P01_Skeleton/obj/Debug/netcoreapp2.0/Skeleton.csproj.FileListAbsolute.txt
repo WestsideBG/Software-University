@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\P01_Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb

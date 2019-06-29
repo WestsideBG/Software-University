@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\bin\Debug\netcoreapp2.1\Radio Database.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\bin\Debug\netcoreapp2.1\Radio Database.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\bin\Debug\netcoreapp2.1\Radio Database.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\bin\Debug\netcoreapp2.1\Radio Database.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\bin\Debug\netcoreapp2.1\Radio Database.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Inheritance\Inheritance-EXERSICE\Exercise\Radio Database\obj\Debug\netcoreapp2.1\Radio Database.pdb

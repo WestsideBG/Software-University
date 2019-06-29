@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\DEFINING CLASSES\Exercise\DefiningClassesExercise\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.pdb

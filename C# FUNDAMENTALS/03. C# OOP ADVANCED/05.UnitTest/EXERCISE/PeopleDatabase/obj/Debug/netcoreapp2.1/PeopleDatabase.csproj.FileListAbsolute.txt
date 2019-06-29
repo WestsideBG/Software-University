@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\bin\Debug\netcoreapp2.1\PeopleDatabase.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\bin\Debug\netcoreapp2.1\PeopleDatabase.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\bin\Debug\netcoreapp2.1\PeopleDatabase.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\bin\Debug\netcoreapp2.1\PeopleDatabase.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\bin\Debug\netcoreapp2.1\PeopleDatabase.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\EXERCISE\PeopleDatabase\obj\Debug\netcoreapp2.1\PeopleDatabase.pdb

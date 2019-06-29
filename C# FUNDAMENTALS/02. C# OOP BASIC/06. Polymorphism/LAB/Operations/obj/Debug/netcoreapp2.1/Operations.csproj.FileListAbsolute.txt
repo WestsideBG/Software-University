@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\LAB\Operations\bin\Debug\netcoreapp2.1\Operations.deps.json
+c:\users\westsidebg\source\repos\LAB\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.json
+c:\users\westsidebg\source\repos\LAB\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\LAB\Operations\bin\Debug\netcoreapp2.1\Operations.dll
+c:\users\westsidebg\source\repos\LAB\Operations\bin\Debug\netcoreapp2.1\Operations.pdb
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.csprojAssemblyReference.cache
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.dll
+c:\users\westsidebg\source\repos\LAB\Operations\obj\Debug\netcoreapp2.1\Operations.pdb

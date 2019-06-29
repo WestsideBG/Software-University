@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\bin\Debug\netcoreapp2.0\Charity Maraton.deps.json
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\bin\Debug\netcoreapp2.0\Charity Maraton.runtimeconfig.json
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\bin\Debug\netcoreapp2.0\Charity Maraton.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\bin\Debug\netcoreapp2.0\Charity Maraton.dll
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\bin\Debug\netcoreapp2.0\Charity Maraton.pdb
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.dll
+c:\users\westsidebg\source\repos\Exam Prep II\Charity Maraton\obj\Debug\netcoreapp2.0\Charity Maraton.pdb

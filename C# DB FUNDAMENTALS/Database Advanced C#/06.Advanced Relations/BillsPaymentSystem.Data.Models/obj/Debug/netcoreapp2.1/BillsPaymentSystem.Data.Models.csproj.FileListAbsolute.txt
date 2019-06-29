@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\06.Advanced Relations\BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.Models.runtimeconfig.dev.json

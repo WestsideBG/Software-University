@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\bin\Debug\netcoreapp2.0\Matrix of Palindromes.deps.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\bin\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\bin\Debug\netcoreapp2.0\Matrix of Palindromes.pdb
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\ConsoleApp1\obj\Debug\netcoreapp2.0\Matrix of Palindromes.pdb

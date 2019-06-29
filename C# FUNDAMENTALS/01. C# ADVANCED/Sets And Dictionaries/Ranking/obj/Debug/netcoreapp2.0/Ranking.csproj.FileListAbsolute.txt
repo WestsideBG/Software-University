@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\bin\Debug\netcoreapp2.0\Ranking.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\bin\Debug\netcoreapp2.0\Ranking.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\bin\Debug\netcoreapp2.0\Ranking.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\bin\Debug\netcoreapp2.0\Ranking.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\bin\Debug\netcoreapp2.0\Ranking.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Ranking\obj\Debug\netcoreapp2.0\Ranking.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\04. Reflection And Attributes\Exercise\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache

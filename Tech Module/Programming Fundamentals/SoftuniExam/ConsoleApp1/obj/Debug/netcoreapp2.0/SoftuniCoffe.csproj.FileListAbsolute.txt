@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\bin\Debug\netcoreapp2.0\SoftuniCoffe.deps.json
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\bin\Debug\netcoreapp2.0\SoftuniCoffe.runtimeconfig.json
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\bin\Debug\netcoreapp2.0\SoftuniCoffe.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\bin\Debug\netcoreapp2.0\SoftuniCoffe.dll
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\bin\Debug\netcoreapp2.0\SoftuniCoffe.pdb
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.csprojResolveAssemblyReference.cache
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.dll
+c:\users\westsidebg\source\repos\SoftuniExam\ConsoleApp1\obj\Debug\netcoreapp2.0\SoftuniCoffe.pdb

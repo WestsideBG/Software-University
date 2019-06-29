@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\08.External Format Processing\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

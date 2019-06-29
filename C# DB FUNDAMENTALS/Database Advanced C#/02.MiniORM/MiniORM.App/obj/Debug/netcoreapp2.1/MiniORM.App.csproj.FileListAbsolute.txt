@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\02.MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

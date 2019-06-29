@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\08. Increase Minion Age.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\08. Increase Minion Age.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\08. Increase Minion Age.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\08. Increase Minion Age.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\08. Increase Minion Age.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\08. Increase Minion Age\obj\Debug\netcoreapp2.1\08. Increase Minion Age.pdb

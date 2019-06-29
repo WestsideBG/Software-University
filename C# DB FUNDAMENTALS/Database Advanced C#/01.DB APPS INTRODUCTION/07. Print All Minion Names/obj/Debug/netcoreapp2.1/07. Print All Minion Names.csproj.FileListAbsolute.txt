@@ -1,0 +1,14 @@
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\07. Print All Minion Names.deps.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\07. Print All Minion Names.runtimeconfig.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\07. Print All Minion Names.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\07. Print All Minion Names.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\07. Print All Minion Names.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\01.1. Initial Setup.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\bin\Debug\netcoreapp2.1\01.1. Initial Setup.pdb
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.AssemblyInfo.cs
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.csproj.CopyComplete
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.dll
+D:\Desktop\Softuni\C# DB FUNDAMENTALS\Database Advanced C#\DB APPS INTRODUCTION\07. Print All Minion Names\obj\Debug\netcoreapp2.1\07. Print All Minion Names.pdb

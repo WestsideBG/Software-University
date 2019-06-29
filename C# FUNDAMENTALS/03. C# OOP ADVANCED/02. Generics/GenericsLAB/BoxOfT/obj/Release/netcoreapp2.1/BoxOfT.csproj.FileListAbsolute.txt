@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\bin\Release\netcoreapp2.1\BoxOfT.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\bin\Release\netcoreapp2.1\BoxOfT.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\bin\Release\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\bin\Release\netcoreapp2.1\BoxOfT.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\bin\Release\netcoreapp2.1\BoxOfT.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\obj\Release\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\obj\Release\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\obj\Release\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\obj\Release\netcoreapp2.1\BoxOfT.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\02. Generics\GenericsLAB\BoxOfT\obj\Release\netcoreapp2.1\BoxOfT.pdb

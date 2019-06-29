@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.0\Wardrobe.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.0\Wardrobe.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.0\Wardrobe.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.0\Wardrobe.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.0\Wardrobe.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.0\Wardrobe.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.0\Wardrobe.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.0\Wardrobe.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.0\Wardrobe.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.0\Wardrobe.pdb

@@ -1,0 +1,11 @@
+c:\users\westsidebg\source\repos\LAB\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+c:\users\westsidebg\source\repos\LAB\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+c:\users\westsidebg\source\repos\LAB\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+c:\users\westsidebg\source\repos\LAB\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+c:\users\westsidebg\source\repos\LAB\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+c:\users\westsidebg\source\repos\LAB\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons", "Persons\Persons.csproj", "{22A10748-4634-4C50-AAAC-5A6CE9D99AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{DDF45445-34F5-407D-8D1B-50D2538E75D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationOfData", "ValidationOfData\ValidationOfData.csproj", "{2E4F9006-9CBF-4B49-9523-35A7171DF85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A10748-4634-4C50-AAAC-5A6CE9D99AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A10748-4634-4C50-AAAC-5A6CE9D99AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A10748-4634-4C50-AAAC-5A6CE9D99AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A10748-4634-4C50-AAAC-5A6CE9D99AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF45445-34F5-407D-8D1B-50D2538E75D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF45445-34F5-407D-8D1B-50D2538E75D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF45445-34F5-407D-8D1B-50D2538E75D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF45445-34F5-407D-8D1B-50D2538E75D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4F9006-9CBF-4B49-9523-35A7171DF85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4F9006-9CBF-4B49-9523-35A7171DF85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4F9006-9CBF-4B49-9523-35A7171DF85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4F9006-9CBF-4B49-9523-35A7171DF85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7EFF6EF-4401-48D8-88BC-0E758CD7BD50}
+	EndGlobalSection
+EndGlobal

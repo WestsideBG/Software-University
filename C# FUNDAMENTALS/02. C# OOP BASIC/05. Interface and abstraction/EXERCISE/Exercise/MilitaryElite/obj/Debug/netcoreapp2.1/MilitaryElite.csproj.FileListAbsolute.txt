@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# OOP BASIC\Interface and Abstraction\EXERCISE\Exercise\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb

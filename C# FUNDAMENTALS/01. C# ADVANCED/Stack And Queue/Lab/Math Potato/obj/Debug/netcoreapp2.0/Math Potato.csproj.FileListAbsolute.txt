@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\bin\Debug\netcoreapp2.0\Math Potato.deps.json
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\bin\Debug\netcoreapp2.0\Math Potato.runtimeconfig.json
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\bin\Debug\netcoreapp2.0\Math Potato.runtimeconfig.dev.json
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\bin\Debug\netcoreapp2.0\Math Potato.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\bin\Debug\netcoreapp2.0\Math Potato.pdb
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.csprojAssemblyReference.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.AssemblyInfo.cs
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.dll
+C:\Users\WestsideBG\Desktop\Softuni\C# ADVANCED\Stack And Queue LAB\Math Potato\obj\Debug\netcoreapp2.0\Math Potato.pdb

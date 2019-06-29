@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\bin\Debug\netcoreapp2.0\Target Practisee.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\bin\Debug\netcoreapp2.0\Target Practisee.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\bin\Debug\netcoreapp2.0\Target Practisee.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\bin\Debug\netcoreapp2.0\Target Practisee.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\bin\Debug\netcoreapp2.0\Target Practisee.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\obj\Debug\netcoreapp2.0\Target Practisee.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\obj\Debug\netcoreapp2.0\Target Practisee.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\obj\Debug\netcoreapp2.0\Target Practisee.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\obj\Debug\netcoreapp2.0\Target Practisee.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Multidimensional Arrays\Target Practisee\obj\Debug\netcoreapp2.0\Target Practisee.pdb

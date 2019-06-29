@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\bin\Debug\netcoreapp2.0\Jedi Meditation.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\bin\Debug\netcoreapp2.0\Jedi Meditation.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\bin\Debug\netcoreapp2.0\Jedi Meditation.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\bin\Debug\netcoreapp2.0\Jedi Meditation.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\bin\Debug\netcoreapp2.0\Jedi Meditation.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\C# ADVANCED\Jedi Exam\Jedi Meditation\obj\Debug\netcoreapp2.0\Jedi Meditation.pdb

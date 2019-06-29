@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\bin\Debug\netcoreapp2.0\Force Book.deps.json
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\bin\Debug\netcoreapp2.0\Force Book.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\bin\Debug\netcoreapp2.0\Force Book.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\bin\Debug\netcoreapp2.0\Force Book.dll
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\bin\Debug\netcoreapp2.0\Force Book.pdb
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.dll
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.pdb
+C:\Users\WestsideBG\source\repos\4Martch_Exam\Force Book\obj\Debug\netcoreapp2.0\Force Book.csprojResolveAssemblyReference.cache

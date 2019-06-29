@@ -1,0 +1,11 @@
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.deps.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.dll
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.pdb
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.dll
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.pdb
+C:\Users\WestsideBG\source\repos\Pokemon Exam\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csprojResolveAssemblyReference.cache

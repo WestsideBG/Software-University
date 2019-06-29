@@ -1,0 +1,10 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\SkeletonTests.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\SkeletonTests.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\obj\Debug\netstandard2.0\SkeletonTests.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\obj\Debug\netstandard2.0\SkeletonTests.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\obj\Debug\netstandard2.0\SkeletonTests.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\obj\Debug\netstandard2.0\SkeletonTests.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\05.UnitTest\LAB\SkeletonTests\bin\Debug\netstandard2.0\nunit.engine.api.dll

@@ -1,0 +1,10 @@
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.deps.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.dll
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.pdb
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.dll
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.pdb

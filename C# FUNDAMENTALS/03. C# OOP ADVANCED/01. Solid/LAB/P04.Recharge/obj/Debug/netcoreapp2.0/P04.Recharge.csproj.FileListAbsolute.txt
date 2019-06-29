@@ -1,0 +1,11 @@
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.deps.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.dev.json
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.pdb
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csprojAssemblyReference.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfoInputs.cache
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfo.cs
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\Desktop\Softuni\C# FUNDAMENTALS\03. C# OOP ADVANCED\01. Solid\LAB\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.pdb

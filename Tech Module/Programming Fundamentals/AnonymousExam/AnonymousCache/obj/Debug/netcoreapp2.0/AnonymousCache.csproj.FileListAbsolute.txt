@@ -1,0 +1,10 @@
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.deps.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.dev.json
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.pdb
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csproj.CoreCompileInputs.cache
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfoInputs.cache
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfo.cs
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\WestsideBG\source\repos\AnonymousExam\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.pdb

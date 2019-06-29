@@ -1,0 +1,34 @@
+﻿@model List<Article>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var article in Model)
+        {
+            <div class="col-sm-6">
+                <article>
+                    <header>
+                        <h2>
+                            @Html.DisplayFor(modelItem => article.Title)
+                        </h2>
+                    </header>
+                    <p>
+                        @Html.DisplayFor(modelItem => article.Content)
+                    </p>
+                    <footer class="pull-right">
+                        <a asp-action="Details" asp-route-id="@article.Id" class="btn btn-default btn-xs">Details</a>
+
+                    </footer>
+                    <footer class="pull-left">
+                        <small class="author">
+                            @Html.DisplayFor(modelItem => article.Author.FullName)
+                        </small>
+                    </footer>
+                </article>
+            </div>
+        }
+    </div>
+</div>

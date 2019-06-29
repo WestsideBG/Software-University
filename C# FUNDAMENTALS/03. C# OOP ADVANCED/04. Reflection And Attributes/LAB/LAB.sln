@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stealer", "01. Stealer\01. Stealer.csproj", "{74BFF6C5-DC80-41CA-9435-7E9D33A0DE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CodingTracker", "CodingTracker\02.CodingTracker.csproj", "{5F0F06D6-F380-443B-A933-E434A1F4812A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BFF6C5-DC80-41CA-9435-7E9D33A0DE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BFF6C5-DC80-41CA-9435-7E9D33A0DE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BFF6C5-DC80-41CA-9435-7E9D33A0DE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BFF6C5-DC80-41CA-9435-7E9D33A0DE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0F06D6-F380-443B-A933-E434A1F4812A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0F06D6-F380-443B-A933-E434A1F4812A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0F06D6-F380-443B-A933-E434A1F4812A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0F06D6-F380-443B-A933-E434A1F4812A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB767F1-3E62-4473-ACD9-0FEB5747AE1D}
+	EndGlobalSection
+EndGlobal
