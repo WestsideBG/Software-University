@@ -1,0 +1,16 @@
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.exe
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.deps.json
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.runtimeconfig.json
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.runtimeconfig.dev.json
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.dll
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\ref\Methods, Debugging and Troubleshooting Code.dll
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\bin\Debug\net5.0\Methods, Debugging and Troubleshooting Code.pdb
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.csproj.AssemblyReference.cache
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.AssemblyInfoInputs.cache
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.AssemblyInfo.cs
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.csproj.CoreCompileInputs.cache
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.dll
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\ref\Methods, Debugging and Troubleshooting Code.dll
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.pdb
+C:\Users\justc\source\repos\Methods, Debugging and Troubleshooting Code\obj\Debug\net5.0\Methods, Debugging and Troubleshooting Code.genruntimeconfig.cache
