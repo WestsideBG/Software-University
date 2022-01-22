@@ -1,7 +1,6 @@
-﻿using System;
-
-namespace Methods__Debugging_and_Troubleshooting_Code
+﻿namespace Methods__Debugging_and_Troubleshooting_Code
 {
+    using System;
     internal class Fibonacci
     {
         internal void Run()

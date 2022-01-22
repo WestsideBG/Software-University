@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
-
-namespace Methods__Debugging_and_Troubleshooting_Code
+﻿namespace Methods__Debugging_and_Troubleshooting_Code
 {
+    using System.Collections.Generic;
     internal class Exercise
     {
         public string Name { get; set; }
@@ -40,7 +39,13 @@ namespace Methods__Debugging_and_Troubleshooting_Code
             else if (this.Name.Contains("Prime Checker"))
             {
                 PrimeCalculator exercise = new PrimeCalculator();
-                exercise.Run();
+                exercise.Run(name,false);
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Primes in Given Range"))
+            {
+                PrimeCalculator exercise = new PrimeCalculator();
+                exercise.Run(name,true);
                 StartUp.ReturnOrExit(name, exercises);
             }
             else

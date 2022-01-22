@@ -2,11 +2,9 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Threading.Tasks;
 
     public class StartUp
     {
-        public string Name { get; set; } 
         static void Main(string[] args)
         {
             List<Exercise> exercises = CreateExercises();
@@ -24,12 +22,14 @@
             var ReversedOrder = new Exercise("04.Reversed Order");
             var Fibonacci = new Exercise("05.Fibonacci");
             var PrimeChecker = new Exercise("06.Prime Checker");
+            var PrimesInRange = new Exercise("07.Primes in Given Range");
             exercises.Add(HelloName);
             exercises.Add(MaxMethod);
             exercises.Add(EnglishName);
             exercises.Add(ReversedOrder);
             exercises.Add(Fibonacci);
             exercises.Add(PrimeChecker);
+            exercises.Add(PrimesInRange);
 
             return exercises;
         }
@@ -69,13 +69,13 @@
             }
         }
 
-        private static void SayGoodBye(string name)
+        internal static void SayGoodBye(string name)
         {
             
             Console.WriteLine($"It was an honor for me to meet you! Good Bye {name}!");
         }
 
-        public static string GetName()
+        internal static string GetName()
         {
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
@@ -111,7 +111,6 @@
                 Console.WriteLine("The input is incorrect. Try Again.");
                 GetExcersise(name, exercises);
             }
-            isTrue = false;
         }
     }
 }
