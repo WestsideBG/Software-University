@@ -8,7 +8,7 @@ namespace Methods__Debugging_and_Troubleshooting_Code
         {
             return Math.Max(firstNumber,secondNumber);
         }
-
+        
         private int[] GetNumbers()
         {
             System.Console.WriteLine("This Method have two integer parameters, and returns the bigger one.");

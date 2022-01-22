@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\justc\\source\\repos\\Methods, Debugging and Troubleshooting Code\\Methods, Debugging and Troubleshooting Code.csproj",
+      "projectUniqueName": "C:\\Users\\justc\\OneDrive\\Documents\\GitHub\\Software-University\\Tech Module\\Programming Fundamentals\\LAB\\Methods, Debugging and Troubleshooting Code.csproj",
       "projectName": "Methods, Debugging and Troubleshooting Code",
-      "projectPath": "C:\\Users\\justc\\source\\repos\\Methods, Debugging and Troubleshooting Code\\Methods, Debugging and Troubleshooting Code.csproj",
+      "projectPath": "C:\\Users\\justc\\OneDrive\\Documents\\GitHub\\Software-University\\Tech Module\\Programming Fundamentals\\LAB\\Methods, Debugging and Troubleshooting Code.csproj",
       "packagesPath": "C:\\Users\\justc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\justc\\source\\repos\\Methods, Debugging and Troubleshooting Code\\obj\\",
+      "outputPath": "C:\\Users\\justc\\OneDrive\\Documents\\GitHub\\Software-University\\Tech Module\\Programming Fundamentals\\LAB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\justc\\AppData\\Roaming\\NuGet\\NuGet.Config",

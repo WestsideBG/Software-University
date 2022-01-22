@@ -7,7 +7,7 @@ namespace Methods__Debugging_and_Troubleshooting_Code
         public EnglishName()
         {
         }
-
+        
         internal void Run()
         {
             int inputNumber = GetInputNumber();

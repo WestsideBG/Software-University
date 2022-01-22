@@ -12,9 +12,11 @@
             var HelloName = new Exercise("01.Hello,Name");
             var MaxMethod = new Exercise("02.Max Method");
             var EnglishName = new Exercise("03.English Name оf the Last Digit");
+            var ReversedOrder = new Exercise("04.Reversed Order");
             exercises.Add(HelloName);
             exercises.Add(MaxMethod);
             exercises.Add(EnglishName);
+            exercises.Add(ReversedOrder);
             PrintIntroduction();
             string name = GetName();
             PrintExercises(name, exercises);

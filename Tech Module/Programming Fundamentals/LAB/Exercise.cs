@@ -5,6 +5,7 @@ namespace Methods__Debugging_and_Troubleshooting_Code
     internal class Exercise
     {
         public string Name { get; set; }
+
         public void Run(string name, List<Exercise> exercises)
         {
             if (this.Name.Contains("Hello,Name"))
@@ -21,6 +22,12 @@ namespace Methods__Debugging_and_Troubleshooting_Code
             else if (this.Name.Contains("English Name оf the Last Digit"))
             {
                 EnglishName exercise = new EnglishName();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Reversed Order"))
+            {
+                ReversedOrder exercise = new ReversedOrder();
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }
