@@ -31,6 +31,18 @@ namespace Methods__Debugging_and_Troubleshooting_Code
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }
+            else if (this.Name.Contains("Fibonacci"))
+            {
+                Fibonacci exercise = new Fibonacci();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Prime Checker"))
+            {
+                PrimeCalculator exercise = new PrimeCalculator();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
             else
             {
                 System.Console.WriteLine("im here");

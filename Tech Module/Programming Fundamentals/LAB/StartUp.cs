@@ -2,25 +2,36 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Threading.Tasks;
 
     public class StartUp
     {
         public string Name { get; set; } 
         static void Main(string[] args)
         {
+            List<Exercise> exercises = CreateExercises();
+            PrintIntroduction();
+            string name = GetName();
+            PrintExercises(name, exercises);
+        }
+
+        private static List<Exercise> CreateExercises()
+        {
             List<Exercise> exercises = new List<Exercise>();
             var HelloName = new Exercise("01.Hello,Name");
             var MaxMethod = new Exercise("02.Max Method");
             var EnglishName = new Exercise("03.English Name оf the Last Digit");
             var ReversedOrder = new Exercise("04.Reversed Order");
+            var Fibonacci = new Exercise("05.Fibonacci");
+            var PrimeChecker = new Exercise("06.Prime Checker");
             exercises.Add(HelloName);
             exercises.Add(MaxMethod);
             exercises.Add(EnglishName);
             exercises.Add(ReversedOrder);
-            PrintIntroduction();
-            string name = GetName();
-            PrintExercises(name, exercises);
+            exercises.Add(Fibonacci);
+            exercises.Add(PrimeChecker);
 
+            return exercises;
         }
 
         internal static void ReturnOrExit(string name, List<Exercise> exercises)
@@ -60,6 +71,7 @@
 
         private static void SayGoodBye(string name)
         {
+            
             Console.WriteLine($"It was an honor for me to meet you! Good Bye {name}!");
         }
 
