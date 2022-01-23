@@ -1,9 +1,12 @@
 ﻿namespace Methods__Debugging_and_Troubleshooting_Code
 {
     using System.Collections.Generic;
+
     internal class Exercise
     {
         public string Name { get; set; }
+
+        public string Type { get; set; }
 
         public void Run(string name, List<Exercise> exercises)
         {
@@ -48,6 +51,12 @@
                 exercise.Run(name,true);
                 StartUp.ReturnOrExit(name, exercises);
             }
+            else if (this.Name.Contains("Center Point"))
+            {
+                CenterPoint exercise = new CenterPoint();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
             else
             {
                 System.Console.WriteLine("im here");
@@ -56,9 +65,10 @@
             }
         }
 
-        public Exercise(string name)
+        public Exercise(string name, string type)
         {
             this.Name = name;
+            this.Type = type;
         }
     }
 }

@@ -7,30 +7,53 @@
     {
         static void Main(string[] args)
         {
-            List<Exercise> exercises = CreateExercises();
-            PrintIntroduction();
             string name = GetName();
-            PrintExercises(name, exercises);
+            PrintIntroduction(name);
+            Run(name);
         }
 
-        private static List<Exercise> CreateExercises()
+        private static void Run(string name)
+        {
+            string type = GetType();
+            if (type == null)
+            {
+                return;
+            }
+            List<Exercise> exercises = CreateExercises(type);
+            PrintExercises(name, exercises);
+            string exerciseNum = GetExcersise(name, exercises);
+            RunExercise(name, exerciseNum, exercises);
+        }
+
+        private static List<Exercise> CreateExercises(string type)
         {
             List<Exercise> exercises = new List<Exercise>();
-            var HelloName = new Exercise("01.Hello,Name");
-            var MaxMethod = new Exercise("02.Max Method");
-            var EnglishName = new Exercise("03.English Name оf the Last Digit");
-            var ReversedOrder = new Exercise("04.Reversed Order");
-            var Fibonacci = new Exercise("05.Fibonacci");
-            var PrimeChecker = new Exercise("06.Prime Checker");
-            var PrimesInRange = new Exercise("07.Primes in Given Range");
-            exercises.Add(HelloName);
-            exercises.Add(MaxMethod);
-            exercises.Add(EnglishName);
-            exercises.Add(ReversedOrder);
-            exercises.Add(Fibonacci);
-            exercises.Add(PrimeChecker);
-            exercises.Add(PrimesInRange);
+            if (type.Contains("1"))
+            {
+                string Lab = "LAB";
 
+                var HelloName = new Exercise("01.Hello,Name", Lab);
+                var MaxMethod = new Exercise("02.Max Method", Lab);
+                var EnglishName = new Exercise("03.English Name оf the Last Digit", Lab);
+                var ReversedOrder = new Exercise("04.Reversed Order", Lab);
+                var Fibonacci = new Exercise("05.Fibonacci", Lab);
+                var PrimeChecker = new Exercise("06.Prime Checker", Lab);
+                var PrimesInRange = new Exercise("07.Primes in Given Range", Lab);
+                var CenterPoint = new Exercise("08.Center Point", Lab);
+                exercises.Add(HelloName);
+                exercises.Add(MaxMethod);
+                exercises.Add(EnglishName);
+                exercises.Add(ReversedOrder);
+                exercises.Add(Fibonacci);
+                exercises.Add(PrimeChecker);
+                exercises.Add(PrimesInRange);
+                exercises.Add(CenterPoint);
+            }
+            else if (type.Contains("2"))
+            {
+                string Exercises = "Exercises";
+                //TODO Exercises;
+            }
             return exercises;
         }
 
@@ -39,9 +62,9 @@
             Console.WriteLine("The exercise is completed succesfully!");
             Console.WriteLine("Do you want to continiue? [Y/N]");
             string exitorno = Console.ReadLine();
-            if (exitorno == "Y")
+            if (exitorno == "Y" || exitorno == "y")
             {
-                GetExcersise(name, exercises);
+                Run(name);
             }
             else
             {
@@ -51,27 +74,16 @@
 
         private static void PrintExercises(string name, List<Exercise> exercises)
         {
-            Console.WriteLine($"Nice to meet you, {name}!");
-            Console.WriteLine("Do you want to see my exercises ?");
-            Console.WriteLine("Type [Y/N]");
-            string yesorno = Console.ReadLine();
-            if (yesorno == "Y")
+
+            foreach (var exercise in exercises)
             {
-                foreach (var exercise in exercises)
-                {
-                    Console.WriteLine(exercise.Name);
-                }
-                GetExcersise(name,exercises);
-            }
-            else
-            {
-                SayGoodBye(name);
+                Console.WriteLine(exercise.Name);
             }
         }
 
         internal static void SayGoodBye(string name)
         {
-            
+
             Console.WriteLine($"It was an honor for me to meet you! Good Bye {name}!");
         }
 
@@ -82,16 +94,39 @@
             return name;
         }
 
-        private static void PrintIntroduction()
+        private static void PrintIntroduction(string name)
         {
+            List<Exercise> exercises;
+
+            Console.WriteLine($"Nice to meet you, {name}!");
             Console.WriteLine("Welcome to my exercise program! My name is Samir Azzam and I'm a software engineer.");
+            Console.WriteLine("Do you want to see my exercises ?");
+            Console.WriteLine("Type [Y/N]");
+            string yesorno = Console.ReadLine();
+            if (yesorno == "Y" || yesorno == "y")
+            {
+                Run(name);
+            }
+            else
+            {
+                SayGoodBye(name);
+            }
         }
 
-        internal static void GetExcersise(string name, List<Exercise> exercises)
+        internal static string GetType()
+        {
+            Console.WriteLine("Please, select a type by providing a number:");
+            Console.WriteLine("01.Lab");
+            Console.WriteLine("02.Exercises");
+            string type = Console.ReadLine();
+            return type;
+        }
+
+        internal static string GetExcersise(string name, List<Exercise> exercises)
         {
             Console.WriteLine("Provide the number of the exercise which you want to see.");
             string exerciseNum = Console.ReadLine();
-            RunExercise(name, exerciseNum, exercises);
+            return exerciseNum;
         }
 
         private static void RunExercise(string name, string exerciseNum, List<Exercise> exercises)
