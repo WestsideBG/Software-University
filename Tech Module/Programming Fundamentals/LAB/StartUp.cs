@@ -8,8 +8,18 @@
         static void Main(string[] args)
         {
             string name = GetName();
-            PrintIntroduction(name);
-            Run(name);
+            Console.WriteLine($"Nice to meet you, {name}!");
+            Console.WriteLine("Welcome to my exercise program! My name is Samir Azzam and I'm a software engineer.");
+
+            bool run = RunOrNot();
+            if (run)
+            {
+                Run(name);
+            }
+            else
+            {
+                SayGoodBye(name);
+            }
         }
 
         private static void Run(string name)
@@ -94,22 +104,21 @@
             return name;
         }
 
-        private static void PrintIntroduction(string name)
+        private static bool RunOrNot()
         {
-            List<Exercise> exercises;
 
-            Console.WriteLine($"Nice to meet you, {name}!");
-            Console.WriteLine("Welcome to my exercise program! My name is Samir Azzam and I'm a software engineer.");
             Console.WriteLine("Do you want to see my exercises ?");
             Console.WriteLine("Type [Y/N]");
+
             string yesorno = Console.ReadLine();
+
             if (yesorno == "Y" || yesorno == "y")
             {
-                Run(name);
+                return true;
             }
             else
             {
-                SayGoodBye(name);
+                return false;
             }
         }
 
