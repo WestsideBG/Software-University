@@ -57,9 +57,26 @@
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }
+            else if (this.Name.Contains("Blank Receipt"))
+            {
+                BlankReceipt exercise = new BlankReceipt();
+                exercise.Run(name);
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Sign of Integer Number"))
+            {
+                SignOfNum exercise = new SignOfNum();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Triangle"))
+            {
+                PrintingTriangle exercise = new PrintingTriangle();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
             else
             {
-                System.Console.WriteLine("im here");
                 System.Console.WriteLine("The input is incorrect. Try Again.");
                 StartUp.GetExcersise(name, exercises);
             }

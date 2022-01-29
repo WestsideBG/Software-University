@@ -2,6 +2,7 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
 
     public class StartUp
     {
@@ -38,9 +39,9 @@
         private static List<Exercise> CreateExercises(string type)
         {
             List<Exercise> exercises = new List<Exercise>();
-            if (type.Contains("1"))
+            if (type.Contains("2"))
             {
-                string Lab = "LAB";
+                string Lab = "Exercises";
 
                 var HelloName = new Exercise("01.Hello,Name", Lab);
                 var MaxMethod = new Exercise("02.Max Method", Lab);
@@ -59,10 +60,15 @@
                 exercises.Add(PrimesInRange);
                 exercises.Add(CenterPoint);
             }
-            else if (type.Contains("2"))
+            else if (type.Contains("1"))
             {
-                string Exercises = "Exercises";
-                //TODO Exercises;
+                string Lab = "LAB";
+                var Receipt = new Exercise("01.Blank Receipt", Lab);
+                var SignOfNum = new Exercise("02.Sign of Integer Number", Lab);
+                var Triangle = new Exercise("03.Printing Triangle", Lab);
+                exercises.Add(Receipt);
+                exercises.Add(SignOfNum);
+                exercises.Add(Triangle);
             }
             return exercises;
         }
