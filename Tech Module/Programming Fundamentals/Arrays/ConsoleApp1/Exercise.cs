@@ -13,9 +13,9 @@
 
         internal void Run(string name, List<Exercise> exercises)
         {
-            if (this.Name.Contains("Place Name"))
+            if (this.Name.Contains("Reverse an Array of Integers"))
             {
-                ExerciseName exercise = new ExerciseName();
+                ReverseArray exercise = new ReverseArray();
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }

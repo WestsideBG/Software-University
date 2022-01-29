@@ -43,13 +43,13 @@
             if (type.Contains("2"))
             {
                 string Lab = "Exercises";
-
-                var HelloName = new Exercise("01.Hello,Name", Lab);
+                
             }
             else if (type.Contains("1"))
             {
                 string Lab = "LAB";
-                var Receipt = new Exercise("01.Blank Receipt", Lab);
+                var ReverseArray = new Exercise("01.Reverse an Array of Integers", Lab);
+                exercises.Add(ReverseArray);
             }
             return exercises;
         }
