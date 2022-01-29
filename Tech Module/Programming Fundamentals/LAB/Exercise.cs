@@ -75,6 +75,12 @@
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }
+            else if (this.Name.Contains("Temperature Conversion"))
+            {
+                TempConversion exercise = new TempConversion();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
             else
             {
                 System.Console.WriteLine("The input is incorrect. Try Again.");

@@ -66,9 +66,11 @@
                 var Receipt = new Exercise("01.Blank Receipt", Lab);
                 var SignOfNum = new Exercise("02.Sign of Integer Number", Lab);
                 var Triangle = new Exercise("03.Printing Triangle", Lab);
+                var TempConversion = new Exercise("04.Temperature Conversion", Lab);
                 exercises.Add(Receipt);
                 exercises.Add(SignOfNum);
                 exercises.Add(Triangle);
+                exercises.Add(TempConversion);
             }
             return exercises;
         }
