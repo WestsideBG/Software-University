@@ -69,7 +69,7 @@
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }
-            else if (this.Name.Contains("Triangle"))
+            else if (this.Name.Contains("Printing Triangle"))
             {
                 PrintingTriangle exercise = new PrintingTriangle();
                 exercise.Run();
@@ -78,6 +78,12 @@
             else if (this.Name.Contains("Temperature Conversion"))
             {
                 TempConversion exercise = new TempConversion();
+                exercise.Run();
+                StartUp.ReturnOrExit(name, exercises);
+            }
+            else if (this.Name.Contains("Triangle Area"))
+            {
+                TriangleArea exercise = new TriangleArea();
                 exercise.Run();
                 StartUp.ReturnOrExit(name, exercises);
             }

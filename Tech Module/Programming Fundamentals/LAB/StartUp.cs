@@ -67,10 +67,12 @@
                 var SignOfNum = new Exercise("02.Sign of Integer Number", Lab);
                 var Triangle = new Exercise("03.Printing Triangle", Lab);
                 var TempConversion = new Exercise("04.Temperature Conversion", Lab);
+                var TriangleArea = new Exercise("05.Calculate Triangle Area", Lab);
                 exercises.Add(Receipt);
                 exercises.Add(SignOfNum);
                 exercises.Add(Triangle);
                 exercises.Add(TempConversion);
+                exercises.Add(TriangleArea);
             }
             return exercises;
         }
